@@ -12,15 +12,19 @@ I also worked making recommendations systems using machine learning, APIs, clean
 
 ## System Requirmentes 
 💻  Any computer
+
 🌐  Internet connection
+
 ```
 sudo ifconfig eth0 up
 ```
 ☕ Coffee espresso type
+
 ```
 apt-get install coffee-machine
 ```
 ✏️ Good Text Editor
+
 ```
 apt-get install atom
 ```
@@ -29,8 +33,9 @@ apt-get install atom
 21 years - live version released (constantly updating...)
 
 ## How to run
+
 ```
 sudo systemctl start edu
 ```
 
-📫 Send me a message.
+📫  Send me a message.
