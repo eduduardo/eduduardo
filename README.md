@@ -25,7 +25,7 @@ apt-get install coffee-machine
 ✏️ Good Text Editor
 
 ```
-apt-get install atom
+apt-get install vscode
 ```
 
 ## Current Version
