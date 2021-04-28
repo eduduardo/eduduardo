@@ -29,7 +29,7 @@ apt-get install vscode
 ```
 
 ## Current Version
-21 years - live version released (constantly updating...)
+22 years - live version released (constantly updating...)
 
 ## How to run
 
