@@ -1,13 +1,13 @@
 
 ### Hello, I'm Edu 👋
 
-I work as a full-stack developer, no matter what type of technology I get my hands dirty with all stack. I have experience in developing mobile apps using React Native, but also developing APIs and services using the most recent frameworks or languages (such as PHP, JavaScript, Python, SQL, MongoDB, and several others).
+I am a mobile developer with 6 years of experience and my focus is on React Native, using JavaScript/TypeScript to create high-quality and performant mobile apps. However, I also have extensive experience in full stack development using various technologies such as PHP, Python, SQL, and MongoDB. Additionally, I am passionate about user interface and user experience design (UI/UX) and have had the opportunity to lead small teams on technology projects.
 
-I also worked on making recommendations systems using machine learning, cleaning and data mining, deploying, scaling, and maintaining services online on Amazon Web Services.
+I have also worked with native code in Swift/Java and have experience with infrastructure on AWS, which has allowed me to successfully implement, scale, and maintain online services. I also have knowledge in machine learning and have worked on many different projects at startups, where I had the chance to collaborate with multidisciplinary teams to create innovative solutions.
 
-I always loved technology, since I was 8 years old I remember making programs, scripts, and other cool tech stuff. I first made my blog at that age - it doesn't exist anymore. I went to a technical high school and from that, I never stopped learning! I made several projects, including games, websites, systems, and apps.
+I have always been drawn to technology and have been learning and building projects since I was 8 years old. My blog may no longer exist, but my love for creating games, websites, systems, and apps has only grown.
 
-My motto is to find solutions for society's problems using the best technology available. The code itself isn't the end, is the **tool**! 
+I believe that technology is a powerful tool for solving problems and making a positive impact on society. For me, the code is just a means to an end, not the end itself.
 
 ## My system Requirements 
 💻  Any computer
@@ -29,7 +29,7 @@ apt-get install vscode
 ```
 
 ## Current Version
-22 years - live version released (constantly updating...)
+23 years - live version released (constantly updating...)
 
 ## How to run
 
