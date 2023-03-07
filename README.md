@@ -28,15 +28,8 @@ apt-get install coffee-machine
 apt-get install vscode
 ```
 
-## Current Version
-23 years - live version released (constantly updating...)
-
 ## How to run
 
 ```
 sudo systemctl start edu
 ```
-
------
-
-📫  Send me a message.
