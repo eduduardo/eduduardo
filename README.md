@@ -1,13 +1,21 @@
 
 ### Hello, I'm Edu 👋
 
-I am a mobile developer with 6 years of experience and my focus is on React Native, using JavaScript/TypeScript to create high-quality and performant mobile apps. However, I also have extensive experience in full stack development using various technologies such as PHP, Python, SQL, and MongoDB. Additionally, I am passionate about user interface and user experience design (UI/UX) and have had the opportunity to lead small teams on technology projects.
+🚀 Mobile Specialist in React Native
 
-I have also worked with native code in Swift/Java and have experience with infrastructure on AWS, which has allowed me to successfully implement, scale, and maintain online services. I also have knowledge in machine learning and have worked on many different projects at startups, where I had the chance to collaborate with multidisciplinary teams to create innovative solutions.
+🔹 7 years of experience in the technology field, with a focus on mobile and web development using JavaScript/TypeScript.
 
-I have always been drawn to technology and have been learning and building projects since I was 8 years old. My blog may no longer exist, but my love for creating games, websites, systems, and apps has only grown.
+💼 Led projects of various sizes, covering a wide range of technologies. My journey includes development with BLE (Bluetooth Low-Energy), map integration, in-app purchases, SDK integration, Firebase, push notifications, internationalization, animations, unit and end-to-end testing, CD/CI pipeline construction, WebRTC-based video conferencing, real-time chat with websockets. I also have experience in native Swift/Java, enabling the development of any type of mobile application. I've always been involved in end-to-end development, from app conception to publication on app stores. I also hold a Google Play Store certification.
 
-I believe that technology is a powerful tool for solving problems and making a positive impact on society. For me, the code is just a means to an end, not the end itself.
+🌐 My skills extend beyond mobile development. I have solid backend knowledge, having worked as a Full Stack developer with proficiency in PHP, Python, SQL, and MongoDB.
+
+☁️ I am AWS certified and have knowledge of AWS infrastructure, allowing me to implement, scale, and maintain online services.
+
+🎨 I have a passion for user interface design and user experience (UI/UX). I always work closely with design teams to implement the best possible user experience.
+
+💡 I've been drawn to technology since the age of 8. I believe that technology is a powerful tool to solve problems and make a positive impact on society. To me, code is just a means to achieve a goal, not the final objective.
+
+🔬 Currently, I am deepening my knowledge in AI integrated with mobile devices and continue to conduct experiments and performance optimizations.
 
 ## My system Requirements 
 💻  Any computer
