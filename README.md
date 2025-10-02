@@ -3,7 +3,7 @@
 
 🚀 Mobile Specialist in React Native
 
-🔹 7 years of experience in the technology field, with a focus on mobile and web development using JavaScript/TypeScript.
+🔹 8 years of experience in the technology field, with a focus on mobile and web development using JavaScript/TypeScript.
 
 💼 Led projects of various sizes, covering a wide range of technologies. My journey includes development with BLE (Bluetooth Low-Energy), map integration, in-app purchases, SDK integration, Firebase, push notifications, internationalization, animations, unit and end-to-end testing, CD/CI pipeline construction, WebRTC-based video conferencing, real-time chat with websockets. I also have experience in native Swift/Java, enabling the development of any type of mobile application. I've always been involved in end-to-end development, from app conception to publication on app stores. I also hold a Google Play Store certification.
 
